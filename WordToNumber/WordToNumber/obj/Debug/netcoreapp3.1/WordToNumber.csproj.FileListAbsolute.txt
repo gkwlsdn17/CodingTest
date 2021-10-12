@@ -1,0 +1,13 @@
+C:\Users\kwon\Desktop\Study\Coding Test\WordToNumber\WordToNumber\bin\Debug\netcoreapp3.1\WordToNumber.exe
+C:\Users\kwon\Desktop\Study\Coding Test\WordToNumber\WordToNumber\bin\Debug\netcoreapp3.1\WordToNumber.deps.json
+C:\Users\kwon\Desktop\Study\Coding Test\WordToNumber\WordToNumber\bin\Debug\netcoreapp3.1\WordToNumber.runtimeconfig.json
+C:\Users\kwon\Desktop\Study\Coding Test\WordToNumber\WordToNumber\bin\Debug\netcoreapp3.1\WordToNumber.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Study\Coding Test\WordToNumber\WordToNumber\bin\Debug\netcoreapp3.1\WordToNumber.dll
+C:\Users\kwon\Desktop\Study\Coding Test\WordToNumber\WordToNumber\bin\Debug\netcoreapp3.1\WordToNumber.pdb
+C:\Users\kwon\Desktop\Study\Coding Test\WordToNumber\WordToNumber\obj\Debug\netcoreapp3.1\WordToNumber.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Study\Coding Test\WordToNumber\WordToNumber\obj\Debug\netcoreapp3.1\WordToNumber.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Study\Coding Test\WordToNumber\WordToNumber\obj\Debug\netcoreapp3.1\WordToNumber.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Study\Coding Test\WordToNumber\WordToNumber\obj\Debug\netcoreapp3.1\WordToNumber.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\Coding Test\WordToNumber\WordToNumber\obj\Debug\netcoreapp3.1\WordToNumber.dll
+C:\Users\kwon\Desktop\Study\Coding Test\WordToNumber\WordToNumber\obj\Debug\netcoreapp3.1\WordToNumber.pdb
+C:\Users\kwon\Desktop\Study\Coding Test\WordToNumber\WordToNumber\obj\Debug\netcoreapp3.1\WordToNumber.genruntimeconfig.cache

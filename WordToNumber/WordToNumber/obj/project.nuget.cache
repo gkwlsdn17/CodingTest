@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CjeIp7lwRXlMjmvj/W8PPVkFO7GVj4A/oYUdcN97xLDuNDztz3ULkc355LC+kaUe8Ewu2IwuAOz6TjO1XZODcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kwon\\Desktop\\Study\\Coding Test\\WordToNumber\\WordToNumber\\WordToNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
