@@ -1,0 +1,13 @@
+C:\Users\kwon\Desktop\Study\CodingTest\DotProduct\DotProduct\bin\Debug\netcoreapp3.1\DotProduct.exe
+C:\Users\kwon\Desktop\Study\CodingTest\DotProduct\DotProduct\bin\Debug\netcoreapp3.1\DotProduct.deps.json
+C:\Users\kwon\Desktop\Study\CodingTest\DotProduct\DotProduct\bin\Debug\netcoreapp3.1\DotProduct.runtimeconfig.json
+C:\Users\kwon\Desktop\Study\CodingTest\DotProduct\DotProduct\bin\Debug\netcoreapp3.1\DotProduct.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Study\CodingTest\DotProduct\DotProduct\bin\Debug\netcoreapp3.1\DotProduct.dll
+C:\Users\kwon\Desktop\Study\CodingTest\DotProduct\DotProduct\bin\Debug\netcoreapp3.1\DotProduct.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\DotProduct\DotProduct\obj\Debug\netcoreapp3.1\DotProduct.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Study\CodingTest\DotProduct\DotProduct\obj\Debug\netcoreapp3.1\DotProduct.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\DotProduct\DotProduct\obj\Debug\netcoreapp3.1\DotProduct.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Study\CodingTest\DotProduct\DotProduct\obj\Debug\netcoreapp3.1\DotProduct.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\DotProduct\DotProduct\obj\Debug\netcoreapp3.1\DotProduct.dll
+C:\Users\kwon\Desktop\Study\CodingTest\DotProduct\DotProduct\obj\Debug\netcoreapp3.1\DotProduct.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\DotProduct\DotProduct\obj\Debug\netcoreapp3.1\DotProduct.genruntimeconfig.cache
