@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C05jEKZVSssGn5hzWPhNOD+g2I6gZeKt4oPD7QXTEx46YtgaV1JlBgRjdRBSCSp4e/evP9ql9Jwi278Ti9cyvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kwon\\Desktop\\Study\\CodingTest\\MockExam\\MockExam\\MockExam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

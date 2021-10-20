@@ -1,0 +1,13 @@
+C:\Users\kwon\Desktop\Study\CodingTest\MockExam\MockExam\obj\Debug\netcoreapp3.1\MockExam.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Study\CodingTest\MockExam\MockExam\obj\Debug\netcoreapp3.1\MockExam.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\MockExam\MockExam\obj\Debug\netcoreapp3.1\MockExam.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Study\CodingTest\MockExam\MockExam\obj\Debug\netcoreapp3.1\MockExam.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\MockExam\MockExam\bin\Debug\netcoreapp3.1\MockExam.exe
+C:\Users\kwon\Desktop\Study\CodingTest\MockExam\MockExam\bin\Debug\netcoreapp3.1\MockExam.deps.json
+C:\Users\kwon\Desktop\Study\CodingTest\MockExam\MockExam\bin\Debug\netcoreapp3.1\MockExam.runtimeconfig.json
+C:\Users\kwon\Desktop\Study\CodingTest\MockExam\MockExam\bin\Debug\netcoreapp3.1\MockExam.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Study\CodingTest\MockExam\MockExam\bin\Debug\netcoreapp3.1\MockExam.dll
+C:\Users\kwon\Desktop\Study\CodingTest\MockExam\MockExam\bin\Debug\netcoreapp3.1\MockExam.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\MockExam\MockExam\obj\Debug\netcoreapp3.1\MockExam.dll
+C:\Users\kwon\Desktop\Study\CodingTest\MockExam\MockExam\obj\Debug\netcoreapp3.1\MockExam.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\MockExam\MockExam\obj\Debug\netcoreapp3.1\MockExam.genruntimeconfig.cache
