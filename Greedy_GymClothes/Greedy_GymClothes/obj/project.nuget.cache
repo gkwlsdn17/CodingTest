@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ys3xPct4LC7xF9Pbvdi2e7qqcQ5v3Gal+L1Vpt7S1DRoWYsU9iYaCtWrYQj3uXHl5SRLujMzxs4oSFD/bfBCEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kwon\\Desktop\\Study\\CodingTest\\Greedy_GymClothes\\Greedy_GymClothes\\Greedy_GymClothes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

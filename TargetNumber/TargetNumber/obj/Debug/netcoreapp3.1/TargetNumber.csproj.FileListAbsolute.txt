@@ -1,0 +1,13 @@
+C:\Users\kwon\Desktop\Study\CodingTest\TargetNumber\TargetNumber\obj\Debug\netcoreapp3.1\TargetNumber.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Study\CodingTest\TargetNumber\TargetNumber\obj\Debug\netcoreapp3.1\TargetNumber.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\TargetNumber\TargetNumber\obj\Debug\netcoreapp3.1\TargetNumber.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Study\CodingTest\TargetNumber\TargetNumber\obj\Debug\netcoreapp3.1\TargetNumber.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\TargetNumber\TargetNumber\bin\Debug\netcoreapp3.1\TargetNumber.exe
+C:\Users\kwon\Desktop\Study\CodingTest\TargetNumber\TargetNumber\bin\Debug\netcoreapp3.1\TargetNumber.deps.json
+C:\Users\kwon\Desktop\Study\CodingTest\TargetNumber\TargetNumber\bin\Debug\netcoreapp3.1\TargetNumber.runtimeconfig.json
+C:\Users\kwon\Desktop\Study\CodingTest\TargetNumber\TargetNumber\bin\Debug\netcoreapp3.1\TargetNumber.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Study\CodingTest\TargetNumber\TargetNumber\bin\Debug\netcoreapp3.1\TargetNumber.dll
+C:\Users\kwon\Desktop\Study\CodingTest\TargetNumber\TargetNumber\bin\Debug\netcoreapp3.1\TargetNumber.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\TargetNumber\TargetNumber\obj\Debug\netcoreapp3.1\TargetNumber.dll
+C:\Users\kwon\Desktop\Study\CodingTest\TargetNumber\TargetNumber\obj\Debug\netcoreapp3.1\TargetNumber.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\TargetNumber\TargetNumber\obj\Debug\netcoreapp3.1\TargetNumber.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kwon\Desktop\Study\CodingTest\Greedy_GymClothes\Greedy_GymClothes\bin\Debug\netcoreapp3.1\Greedy_GymClothes.exe
+C:\Users\kwon\Desktop\Study\CodingTest\Greedy_GymClothes\Greedy_GymClothes\bin\Debug\netcoreapp3.1\Greedy_GymClothes.deps.json
+C:\Users\kwon\Desktop\Study\CodingTest\Greedy_GymClothes\Greedy_GymClothes\bin\Debug\netcoreapp3.1\Greedy_GymClothes.runtimeconfig.json
+C:\Users\kwon\Desktop\Study\CodingTest\Greedy_GymClothes\Greedy_GymClothes\bin\Debug\netcoreapp3.1\Greedy_GymClothes.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Study\CodingTest\Greedy_GymClothes\Greedy_GymClothes\bin\Debug\netcoreapp3.1\Greedy_GymClothes.dll
+C:\Users\kwon\Desktop\Study\CodingTest\Greedy_GymClothes\Greedy_GymClothes\bin\Debug\netcoreapp3.1\Greedy_GymClothes.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\Greedy_GymClothes\Greedy_GymClothes\obj\Debug\netcoreapp3.1\Greedy_GymClothes.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Study\CodingTest\Greedy_GymClothes\Greedy_GymClothes\obj\Debug\netcoreapp3.1\Greedy_GymClothes.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\Greedy_GymClothes\Greedy_GymClothes\obj\Debug\netcoreapp3.1\Greedy_GymClothes.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Study\CodingTest\Greedy_GymClothes\Greedy_GymClothes\obj\Debug\netcoreapp3.1\Greedy_GymClothes.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\Greedy_GymClothes\Greedy_GymClothes\obj\Debug\netcoreapp3.1\Greedy_GymClothes.dll
+C:\Users\kwon\Desktop\Study\CodingTest\Greedy_GymClothes\Greedy_GymClothes\obj\Debug\netcoreapp3.1\Greedy_GymClothes.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\Greedy_GymClothes\Greedy_GymClothes\obj\Debug\netcoreapp3.1\Greedy_GymClothes.genruntimeconfig.cache
