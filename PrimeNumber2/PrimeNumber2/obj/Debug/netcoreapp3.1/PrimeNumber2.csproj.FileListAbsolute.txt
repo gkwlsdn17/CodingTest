@@ -1,0 +1,13 @@
+C:\Users\kwon\Desktop\Study\CodingTest\PrimeNumber2\PrimeNumber2\bin\Debug\netcoreapp3.1\PrimeNumber2.exe
+C:\Users\kwon\Desktop\Study\CodingTest\PrimeNumber2\PrimeNumber2\bin\Debug\netcoreapp3.1\PrimeNumber2.deps.json
+C:\Users\kwon\Desktop\Study\CodingTest\PrimeNumber2\PrimeNumber2\bin\Debug\netcoreapp3.1\PrimeNumber2.runtimeconfig.json
+C:\Users\kwon\Desktop\Study\CodingTest\PrimeNumber2\PrimeNumber2\bin\Debug\netcoreapp3.1\PrimeNumber2.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Study\CodingTest\PrimeNumber2\PrimeNumber2\bin\Debug\netcoreapp3.1\PrimeNumber2.dll
+C:\Users\kwon\Desktop\Study\CodingTest\PrimeNumber2\PrimeNumber2\bin\Debug\netcoreapp3.1\PrimeNumber2.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\PrimeNumber2\PrimeNumber2\obj\Debug\netcoreapp3.1\PrimeNumber2.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Study\CodingTest\PrimeNumber2\PrimeNumber2\obj\Debug\netcoreapp3.1\PrimeNumber2.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\PrimeNumber2\PrimeNumber2\obj\Debug\netcoreapp3.1\PrimeNumber2.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Study\CodingTest\PrimeNumber2\PrimeNumber2\obj\Debug\netcoreapp3.1\PrimeNumber2.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\PrimeNumber2\PrimeNumber2\obj\Debug\netcoreapp3.1\PrimeNumber2.dll
+C:\Users\kwon\Desktop\Study\CodingTest\PrimeNumber2\PrimeNumber2\obj\Debug\netcoreapp3.1\PrimeNumber2.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\PrimeNumber2\PrimeNumber2\obj\Debug\netcoreapp3.1\PrimeNumber2.genruntimeconfig.cache

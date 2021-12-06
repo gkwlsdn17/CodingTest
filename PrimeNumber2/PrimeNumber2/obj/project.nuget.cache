@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yMDCxVWV7Iq13Qi2WTa1UbdnFivPQdIiu7oCRYblRB0z92YsNltbNfDeG485aP7YNu4F9zhB4Tx9BeoJAxSe4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kwon\\Desktop\\Study\\CodingTest\\PrimeNumber2\\PrimeNumber2\\PrimeNumber2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
