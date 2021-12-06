@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X44U3yP8RGeesr7wF7mMj8a4mSk9J/3Lj8Q0vS9RtE3mH/plwpLX8+N4yYRHxDtR73Ou/kjFx6Bx588Htbyqig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kwon\\Desktop\\Study\\CodingTest\\KeepDistance\\KeepDistance\\KeepDistance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

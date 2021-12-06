@@ -1,0 +1,13 @@
+C:\Users\kwon\Desktop\Study\CodingTest\KeepDistance\KeepDistance\obj\Debug\netcoreapp3.1\KeepDistance.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Study\CodingTest\KeepDistance\KeepDistance\obj\Debug\netcoreapp3.1\KeepDistance.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\KeepDistance\KeepDistance\obj\Debug\netcoreapp3.1\KeepDistance.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Study\CodingTest\KeepDistance\KeepDistance\obj\Debug\netcoreapp3.1\KeepDistance.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\KeepDistance\KeepDistance\bin\Debug\netcoreapp3.1\KeepDistance.exe
+C:\Users\kwon\Desktop\Study\CodingTest\KeepDistance\KeepDistance\bin\Debug\netcoreapp3.1\KeepDistance.deps.json
+C:\Users\kwon\Desktop\Study\CodingTest\KeepDistance\KeepDistance\bin\Debug\netcoreapp3.1\KeepDistance.runtimeconfig.json
+C:\Users\kwon\Desktop\Study\CodingTest\KeepDistance\KeepDistance\bin\Debug\netcoreapp3.1\KeepDistance.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Study\CodingTest\KeepDistance\KeepDistance\bin\Debug\netcoreapp3.1\KeepDistance.dll
+C:\Users\kwon\Desktop\Study\CodingTest\KeepDistance\KeepDistance\bin\Debug\netcoreapp3.1\KeepDistance.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\KeepDistance\KeepDistance\obj\Debug\netcoreapp3.1\KeepDistance.dll
+C:\Users\kwon\Desktop\Study\CodingTest\KeepDistance\KeepDistance\obj\Debug\netcoreapp3.1\KeepDistance.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\KeepDistance\KeepDistance\obj\Debug\netcoreapp3.1\KeepDistance.genruntimeconfig.cache
