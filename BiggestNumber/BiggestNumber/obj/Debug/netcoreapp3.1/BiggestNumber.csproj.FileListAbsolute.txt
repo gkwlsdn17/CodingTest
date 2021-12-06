@@ -1,0 +1,12 @@
+C:\Users\kwon\Desktop\Study\CodingTest\BiggestNumber\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.exe
+C:\Users\kwon\Desktop\Study\CodingTest\BiggestNumber\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.deps.json
+C:\Users\kwon\Desktop\Study\CodingTest\BiggestNumber\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.runtimeconfig.json
+C:\Users\kwon\Desktop\Study\CodingTest\BiggestNumber\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Study\CodingTest\BiggestNumber\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.dll
+C:\Users\kwon\Desktop\Study\CodingTest\BiggestNumber\BiggestNumber\bin\Debug\netcoreapp3.1\BiggestNumber.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\BiggestNumber\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\BiggestNumber\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Study\CodingTest\BiggestNumber\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\BiggestNumber\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.dll
+C:\Users\kwon\Desktop\Study\CodingTest\BiggestNumber\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\BiggestNumber\BiggestNumber\obj\Debug\netcoreapp3.1\BiggestNumber.genruntimeconfig.cache
