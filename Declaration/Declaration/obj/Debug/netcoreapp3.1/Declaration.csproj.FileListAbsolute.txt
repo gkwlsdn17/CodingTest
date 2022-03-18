@@ -1,0 +1,13 @@
+C:\Users\kwon\Desktop\Study\CodingTest\Declaration\Declaration\bin\Debug\netcoreapp3.1\Declaration.exe
+C:\Users\kwon\Desktop\Study\CodingTest\Declaration\Declaration\bin\Debug\netcoreapp3.1\Declaration.deps.json
+C:\Users\kwon\Desktop\Study\CodingTest\Declaration\Declaration\bin\Debug\netcoreapp3.1\Declaration.runtimeconfig.json
+C:\Users\kwon\Desktop\Study\CodingTest\Declaration\Declaration\bin\Debug\netcoreapp3.1\Declaration.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Study\CodingTest\Declaration\Declaration\bin\Debug\netcoreapp3.1\Declaration.dll
+C:\Users\kwon\Desktop\Study\CodingTest\Declaration\Declaration\bin\Debug\netcoreapp3.1\Declaration.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\Declaration\Declaration\obj\Debug\netcoreapp3.1\Declaration.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Study\CodingTest\Declaration\Declaration\obj\Debug\netcoreapp3.1\Declaration.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\Declaration\Declaration\obj\Debug\netcoreapp3.1\Declaration.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Study\CodingTest\Declaration\Declaration\obj\Debug\netcoreapp3.1\Declaration.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\Declaration\Declaration\obj\Debug\netcoreapp3.1\Declaration.dll
+C:\Users\kwon\Desktop\Study\CodingTest\Declaration\Declaration\obj\Debug\netcoreapp3.1\Declaration.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\Declaration\Declaration\obj\Debug\netcoreapp3.1\Declaration.genruntimeconfig.cache
