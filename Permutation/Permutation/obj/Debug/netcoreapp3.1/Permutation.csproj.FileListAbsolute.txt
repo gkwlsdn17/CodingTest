@@ -1,0 +1,13 @@
+C:\Users\kwon\Desktop\Study\CodingTest\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.exe
+C:\Users\kwon\Desktop\Study\CodingTest\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.deps.json
+C:\Users\kwon\Desktop\Study\CodingTest\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.json
+C:\Users\kwon\Desktop\Study\CodingTest\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Study\CodingTest\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.dll
+C:\Users\kwon\Desktop\Study\CodingTest\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Study\CodingTest\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Study\CodingTest\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.dll
+C:\Users\kwon\Desktop\Study\CodingTest\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.genruntimeconfig.cache
