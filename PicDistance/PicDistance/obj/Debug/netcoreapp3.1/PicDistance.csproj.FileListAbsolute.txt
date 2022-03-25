@@ -1,0 +1,13 @@
+C:\Users\kwon\Desktop\Study\CodingTest\PicDistance\PicDistance\bin\Debug\netcoreapp3.1\PicDistance.exe
+C:\Users\kwon\Desktop\Study\CodingTest\PicDistance\PicDistance\bin\Debug\netcoreapp3.1\PicDistance.deps.json
+C:\Users\kwon\Desktop\Study\CodingTest\PicDistance\PicDistance\bin\Debug\netcoreapp3.1\PicDistance.runtimeconfig.json
+C:\Users\kwon\Desktop\Study\CodingTest\PicDistance\PicDistance\bin\Debug\netcoreapp3.1\PicDistance.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Study\CodingTest\PicDistance\PicDistance\bin\Debug\netcoreapp3.1\PicDistance.dll
+C:\Users\kwon\Desktop\Study\CodingTest\PicDistance\PicDistance\bin\Debug\netcoreapp3.1\PicDistance.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\PicDistance\PicDistance\obj\Debug\netcoreapp3.1\PicDistance.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Study\CodingTest\PicDistance\PicDistance\obj\Debug\netcoreapp3.1\PicDistance.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\PicDistance\PicDistance\obj\Debug\netcoreapp3.1\PicDistance.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Study\CodingTest\PicDistance\PicDistance\obj\Debug\netcoreapp3.1\PicDistance.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\PicDistance\PicDistance\obj\Debug\netcoreapp3.1\PicDistance.dll
+C:\Users\kwon\Desktop\Study\CodingTest\PicDistance\PicDistance\obj\Debug\netcoreapp3.1\PicDistance.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\PicDistance\PicDistance\obj\Debug\netcoreapp3.1\PicDistance.genruntimeconfig.cache
