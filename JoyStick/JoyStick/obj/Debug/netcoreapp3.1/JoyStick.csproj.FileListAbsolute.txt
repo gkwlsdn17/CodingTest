@@ -1,0 +1,13 @@
+C:\Users\kwon\Desktop\Study\CodingTest\JoyStick\JoyStick\bin\Debug\netcoreapp3.1\JoyStick.exe
+C:\Users\kwon\Desktop\Study\CodingTest\JoyStick\JoyStick\bin\Debug\netcoreapp3.1\JoyStick.deps.json
+C:\Users\kwon\Desktop\Study\CodingTest\JoyStick\JoyStick\bin\Debug\netcoreapp3.1\JoyStick.runtimeconfig.json
+C:\Users\kwon\Desktop\Study\CodingTest\JoyStick\JoyStick\bin\Debug\netcoreapp3.1\JoyStick.runtimeconfig.dev.json
+C:\Users\kwon\Desktop\Study\CodingTest\JoyStick\JoyStick\bin\Debug\netcoreapp3.1\JoyStick.dll
+C:\Users\kwon\Desktop\Study\CodingTest\JoyStick\JoyStick\bin\Debug\netcoreapp3.1\JoyStick.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\JoyStick\JoyStick\obj\Debug\netcoreapp3.1\JoyStick.csprojAssemblyReference.cache
+C:\Users\kwon\Desktop\Study\CodingTest\JoyStick\JoyStick\obj\Debug\netcoreapp3.1\JoyStick.AssemblyInfoInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\JoyStick\JoyStick\obj\Debug\netcoreapp3.1\JoyStick.AssemblyInfo.cs
+C:\Users\kwon\Desktop\Study\CodingTest\JoyStick\JoyStick\obj\Debug\netcoreapp3.1\JoyStick.csproj.CoreCompileInputs.cache
+C:\Users\kwon\Desktop\Study\CodingTest\JoyStick\JoyStick\obj\Debug\netcoreapp3.1\JoyStick.dll
+C:\Users\kwon\Desktop\Study\CodingTest\JoyStick\JoyStick\obj\Debug\netcoreapp3.1\JoyStick.pdb
+C:\Users\kwon\Desktop\Study\CodingTest\JoyStick\JoyStick\obj\Debug\netcoreapp3.1\JoyStick.genruntimeconfig.cache
