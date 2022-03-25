@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V7Vbm0KhtdwFd1jrjJefZkSRhrOnhWb3lpgl43pYJx4Zr81g2c79Ib+570+tHrl+tifyZyOVaySz2XQPugxdjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kwon\\Desktop\\Study\\CodingTest\\Camouflage\\Camouflage\\Camouflage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
